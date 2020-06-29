@@ -1,1 +1,4 @@
-A website for my favourite character is currently being built here!
+# Peter Huchel
+* Sein Leben
+* Sein Werk
+* Sein Haus
