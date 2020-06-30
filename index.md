@@ -15,5 +15,10 @@ Peter Huchel ist ein deutscher Lyriker und Redakteur. Er wurde am 3.April 1903 i
 > Peter Huchel war Mitglied des P.E.N. Zentrums Deutschland
 > Mitbegründer der Zeitschrift Sinn und Form
 
-<img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fpeter-huchel-preis.de%2Fmedia%2Fwebsite%2Fpeter-huchel.jpg&imgrefurl=http%3A%2F%2Fpeter-huchel-preis.de%2Fpeter-huchel%2F&tbnid=bjtN8R-oiAO1YM&vet=12ahUKEwjsxJCVj6rqAhXR8qQKHVJSAS4QMygBegUIARCBAQ..i&docid=ClWbLaSmKvEeLM&w=600&h=427&itg=1&q=bild von Peter Huchel&ved=2ahUKEwjsxJCVj6rqAhXR8qQKHVJSAS4QMygBegUIARCBAQ" />
+
+<img src="https://lh6.googleusercontent.com/proxy/SjtfGjbIG87aPZO01fP-UmAbQaFkYjePiu9h5Ar_U62JcZJ8-HRCGgdIQphpidlBOkQ6P91u1k_50nNdDoKpL8kObJ65Q3NrCPNs69rP"/>
+
+
+
+
 
