@@ -7,3 +7,5 @@ Peter Huchel ist ein deutscher Lyriker und Redakteur. Er wurde am 3.April 1903 i
 * Sein Leben
 * Sein Werk
 * Sein Haus
+
+<img src="https://lh6.googleusercontent.com/proxy/SjtfGjbIG87aPZO01fP-UmAbQaFkYjePiu9h5Ar_U62JcZJ8-HRCGgdIQphpidlBOkQ6P91u1k_50nNdDoKpL8kObJ65Q3NrCPNs69rP"/>
