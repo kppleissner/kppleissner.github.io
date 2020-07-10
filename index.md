@@ -26,8 +26,8 @@ City: Berlin/Germany
 ### My publications:  
 
 
-* **Not-cited in PubMed**  <a href="https://sites.google.com/site/pleissner/home/publications " target="_blank"> publications</a> 
-* **Cited in PubMed**  <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=pleissner+kp" target="_blank"> publications</a> 
+* **Not-cited in PubMed:**  <a href="https://sites.google.com/site/pleissner/home/publications " target="_blank"> publications</a> 
+* **Cited in PubMed:**  <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=pleissner+kp" target="_blank"> publications</a> 
 
 
 ***  
