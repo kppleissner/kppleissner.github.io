@@ -57,7 +57,7 @@ City: Berlin/Germany
 
 * Institute of Plant Genetics and Crop Plant Research, Gatersleben (1998-2001)  
 
-* Max-Planck-Institute for Infection Biology (2001-2009)  
+* Max Planck Institute for Infection Biology (2001-2009)  
 
 *** 
 ### My hobbies:  
