@@ -32,17 +32,17 @@ City: Berlin/Germany
 ***  
 
 ### Some contributions to WWW:
-* <a href="http://www.chemie.fu-berlin.de/user/pleiss/ " target="_blank">   The Human Myocardial 2D Gel Protein Database </a> 
+* <a href="http://www.chemie.fu-berlin.de/user/pleiss/ " target="_blank">   The Human Myocardial 2D Gel Protein Database </a>  
 
-* The Human Myocardial 2D Gel Protein Database:    <http://www.chemie.fu-berlin.de/user/pleiss/> 
+* <a href="http://www.mpiib-berlin.mpg.de/2D-PAGE/" target="_blank">   Proteome Database System for Microbial Research </a> 
 
-* Proteome Database System for Microbial Research:  <http://www.mpiib-berlin.mpg.de/2D-PAGE/> 
+* <a href="https://grippe.shinyapps.io/CA_plot/ " target="_blank">   Interactive Correspondence Analysis plot </a>  
 
-* Interactive Correspondence Analysis plot:         <https://grippe.shinyapps.io/CA_plot/> 
+* <a href="https://grippe.shinyapps.io/VIRTUAL-2DE-revised/ " target="_blank">   Virtual 2-D gel electrophoresis plot</a> 
 
-* Virtual 2-D gel electrophoresis plot:              <https://grippe.shinyapps.io/VIRTUAL-2DE-revised/>  
+* <a href="https://grippe.shinyapps.io/HELAPRO/" target="_blank">   Virtual 2-D gel electrophoresis plot of Hela cells</a> 
 
-* Virtual 2-D gel electrophoresis plot of Hela cells:  <https://grippe.shinyapps.io/HELAPRO/>
+
 
 *** 
 
