@@ -1,3 +1,6 @@
+<style>
+  body {background-color:lightgray}
+</style>
 
 
 # Dr. Klaus-Peter Pleissner  
