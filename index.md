@@ -1,11 +1,4 @@
----
-title: ""
-author: "K.-P. Pleissner"
-date: "`r Sys.Date()`"
-output:
-  html_document: default
 
----
 # Dr. Klaus-Peter Pleissner  
 
 <img src="https://sites.google.com/site/pleissner/_/rsrc/1363716751414/home/KPP.jpg?height=200&width=200"/>  
