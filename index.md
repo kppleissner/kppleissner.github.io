@@ -2,7 +2,7 @@
 # Dr. Klaus-Peter Pleissner  
 
 
-![](./KPP-for-GitHub.jpg)
+![](./KPP-for-GitHub.jpg)  
 Bioinformatician (retired, born 1944)    
 E-mail: pleissner@gmail.com  
 City: Berlin/Germany  
