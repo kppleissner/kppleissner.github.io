@@ -1,7 +1,7 @@
 
 # Dr. Klaus-Peter Pleissner  
 
-<img src="KPP.jpg" {width = 50px , height = 100px} >
+<img src="KPP.jpg" alt="drawing" style="width:100px;"/>
 
 Bioinformatician (retired, born 1944)    
 E-mail: pleissner@gmail.com  
