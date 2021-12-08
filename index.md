@@ -63,7 +63,7 @@ City: Berlin/Germany
 
 *** 
 ### My hobbies:  
-tennis, skiing, hiking, choir-sing, church-music (Cantorei der Reformationskirche: <http://www.cantorei.de/>)
+tennis, skiing, hiking, choir-singing, church-music (Cantorei der Reformationskirche: <http://www.cantorei.de/>)
 
 
 
