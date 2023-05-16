@@ -3,7 +3,7 @@
 
 
 ![](./KPP_small.png)  
-Bioinformatician (retired, born 1944)    
+Bioinformatician    
 E-mail: pleissner@gmail.com  
 City: Berlin/Germany  
 
